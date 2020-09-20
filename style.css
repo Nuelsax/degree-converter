@@ -1,0 +1,23 @@
+.custom-select:focus,.form-control:focus {
+ box-shadow: 0 0 0  rgba(0, 0, 0, 0.25);
+}
+
+.success, .error {
+  color:white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 1rem;
+  width: 36rem;
+  border-radius: 5px;
+}
+
+.success {
+  background-color: green;
+}
+.error {
+  background-color: red;
+}
+
+h6 {
+  font-size: 14px;
+}
